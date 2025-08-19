@@ -1,6 +1,5 @@
 # 代理补充列表
 DOMAIN,api.ipify.org
-DOMAIN,newtvsuper.com
 DOMAIN,iptv.vip-tptv.xyz
 DOMAIN,caonima.pendy.dpdns.org
 DOMAIN,iptvcdn.pendy.dpdns.org
@@ -21,6 +20,7 @@ DOMAIN-SUFFIX,dpdns.org
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,newtvsuper.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
@@ -47,3 +47,4 @@ IP-CIDR,208.67.220.220/32,no-resolve
 
 #  DOMAIN,emby-a.nubebelle.vip
 IP-CIDR,172.104.93.80/32,no-resolve
+
