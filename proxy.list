@@ -6,6 +6,7 @@ DOMAIN,iptvcdn.pendy.dpdns.org
 DOMAIN,smart.pendy.dpdns.org
 DOMAIN,neibu.pendy.dpdns.org
 DOMAIN,smt.520761.xyz
+# 10-16 a1xs  17-18 xc
 DOMAIN,a1xs.vip                 
 DOMAIN,primestreams.tv          
 IP-CIDR,206.212.244.164/32     
@@ -44,8 +45,8 @@ IP-CIDR,1.0.0.1/32,no-resolve
 IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
-
 IP-CIDR,172.104.93.80/32,no-resolve
+
 
 
 
